@@ -2,7 +2,7 @@
 
 An interactive, Spotify-themed Power BI dashboard that explores the **Spotify Top 50 World** chart: which songs and artists dominate, how popularity changes over time, and how song length, release decade and album type relate to success.
 
-![Home Page](images/home.png)
+![Home Page](Images/home.png)
 
 ---
 
@@ -24,7 +24,7 @@ The dashboard turns raw Spotify chart data into a clean, four-page report with a
 Landing page with the Spotify logo, an album-cover collage and navigation buttons: **Home · Overview · Artists · Songs**.
 
 ### 2. 🧭 Overview
-![Overview](images/overview.png)
+![Overview](Images/overview.png)
 
 - **KPI cards:** Total Songs (789), Sum of Total Tracks, Sum of Position, Average Popularity (90)
 - **Songs by Artists** list with album covers
@@ -34,7 +34,7 @@ Landing page with the Spotify logo, an album-cover collage and navigation button
 - **Song by Artist**, **Sum of Popularity by Song** and **Count of Songs by Year** bar charts
 
 ### 3. 🎤 Artists
-![Artists](images/artists.png)
+![Artists](Images/artists.png)
 
 - **Artist** and **Release Year** slicers
 - **Avg Songs per Artist** card (2.31)
@@ -43,7 +43,7 @@ Landing page with the Spotify logo, an album-cover collage and navigation button
 - **Decomposition tree:** Total Songs → Album Type → Album → Song
 
 ### 4. 🎵 Songs
-![Songs](images/songs.png)
+![Songs](Images/songs.png)
 
 - **Popularity** range slicer (0–100)
 - **Longest Song** (7:36) and **Shortest Song** (0:41) cards
