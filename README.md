@@ -43,7 +43,7 @@ Landing page with the Spotify logo, an album-cover collage and navigation button
 - **Decomposition tree:** Total Songs → Album Type → Album → Song
 
 ### 4. 🎵 Songs
-![Songs](Images/songs.png)
+![Songs](Images/Songs.png)
 
 - **Popularity** range slicer (0–100)
 - **Longest Song** (7:36) and **Shortest Song** (0:41) cards
