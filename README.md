@@ -125,7 +125,7 @@ Measures used in the report include:
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-2. Open `Spotify Dashboard.pbix` in **Power BI Desktop**.
+2. Open `spotify Dashboard.pbix` in **Power BI Desktop**.
 3. If prompted, refresh the data or point it to the dataset file in the `data/` folder.
 4. Use the navigation buttons at the top to move between pages, and the slicers to filter.
 
